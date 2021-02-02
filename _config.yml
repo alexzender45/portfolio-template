@@ -1,13 +1,12 @@
-title: "Will Russell"
+title: "Alexander Abiokorigh Samuel"
 email: fellowship@mlh.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ A Software Engineer, who is dedicated to helping clients accomplish technical goals by developing user friendly and forward-thinking apps.
+ Experience working with Javascript Both Front-End And Back-End. With Frameworks Like, ReactJs, React-Native And NodeJs.
 baseurl: "/" 
-url: "/portfolio-template" 
-twitter_username: mlhacks
-github_username:  mlh-fellowship
+url: "/sam-portfolio" 
+twitter_username: @abiokorigho
+github_username:  alexzender45
 
 sass:
   sass_dir: _sass
